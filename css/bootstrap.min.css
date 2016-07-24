@@ -4146,6 +4146,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .tab-content > .active {
   display: block;
+  overflow-y:scroll;
 }
 .nav-tabs .dropdown-menu {
   margin-top: -1px;
