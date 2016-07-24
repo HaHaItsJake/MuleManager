@@ -4142,6 +4142,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .tab-content > .tab-pane {
   display: none;
+  overflow-y:scroll;
 }
 .tab-content > .active {
   display: block;
